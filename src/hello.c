@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "hello-tp.h"
+#include <tracer/hello-tp.h>
 
     int main(int argc, char *argv[]) {
   int x;
