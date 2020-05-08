@@ -12,7 +12,7 @@
    * you to have time to list its tracepoints. It is not
    * needed otherwise.
    */
-  getchar();
+  //getchar();
 
   /*
    * A tracepoint() call.
